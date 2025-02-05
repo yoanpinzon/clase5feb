@@ -9,4 +9,9 @@ int main() {
     cout << "y fue feliz con hanna\n";
 
     return 0;
+
+//    515  ./clase5feb.exe
+//    516  ./clase5feb.exe 2> popo.txt 1>koko.txt
+
+
 }
